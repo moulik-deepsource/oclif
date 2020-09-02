@@ -6,4 +6,4 @@ enabled = true
 
   [analyzers.meta]
   dialect = "typescript"
-  environmwnt=["nodejs", "mocha"]
+  environment=["nodejs", "mocha"]
